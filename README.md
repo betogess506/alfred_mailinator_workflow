@@ -13,7 +13,7 @@ You´ll be redirected to the mailbox in Mailinator with the query you typed.
 
 
 ### Configuration
-1. Download the workflow file:
+1. : [Download the workflow file](https://github.com/betogess506/alfred_mailinator_workflow/blob/master/Check%20Mailinator%20Inbox.alfredworkflow)
 2. Double-click
 3. Accept Alfred import prompt
 
